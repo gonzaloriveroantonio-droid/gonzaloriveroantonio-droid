@@ -69,6 +69,14 @@ Scrum · Metodologías ágiles · Packet Tracer · Webmin · phpMyAdmin
 Ampliando mis conocimientos en desarrollo de aplicaciones con C# y ASP.NET y administración de bases de datos.
 
 ---
+## 🌟 Lo que me define
+
+- 🤝 **Trabajo en equipo**: actitud colaborativa, buena comunicación y disposición para ayudar.
+- 🚀 **Aprendizaje continuo**: motivación por adquirir nuevos conocimientos y adaptarme a diferentes tecnologías y entornos.
+- 🧩 **Resolución de problemas**: capacidad de análisis, iniciativa y autonomía para afrontar retos técnicos.
+- 🔄 **Adaptabilidad**: facilidad para aprender, afrontar cambios y mejorar continuamente.
+
+---
 
 ## 🌍 Idiomas
 
